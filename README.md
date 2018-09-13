@@ -14,7 +14,7 @@ AppLauncher.LaunchApp("com.yourcompany.yourapp://", "NameOfYourGameObjectForOnSu
 
 From your unity project folder:
 
-    npm init
+    npm init --force # only if you don't yet have a package.json for your unity proj
     npm install beatthat/unity-ios-app-make-launchable --save
 
 ## Usage
