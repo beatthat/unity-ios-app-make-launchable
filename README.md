@@ -23,6 +23,8 @@ Once this package is installed, it should just automatically set the necessary p
 
 To verify in XCode that it worked, look at Info/UrlType. There should be one URL Type entry like the below.
 
+![Launch Window](READMEfiles/images/xcode-url-types.png)
+
 ## Development
 
 You can edit the code and samples in the test environment and then use ```npm run test-install``` to sync changes back to the package src.
